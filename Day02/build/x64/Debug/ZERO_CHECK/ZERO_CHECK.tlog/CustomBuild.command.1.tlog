@@ -1,0 +1,10 @@
+^C:\USERS\OGRIN\STROJNA FAKULTETA\DRUGA_STOPNJA\1.LETNIK\PROGRAMSKI_ALGORITMI_IN_METODE\AOC\DAY02\BUILD\CMAKEFILES\C93602430B8C509EA91B51A7B877043F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/ogrin/Strojna fakulteta/DRUGA_STOPNJA/1.letnik/programski_algoritmi_in_metode/AoC/Day02" "-BC:/Users/ogrin/Strojna fakulteta/DRUGA_STOPNJA/1.letnik/programski_algoritmi_in_metode/AoC/Day02/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ogrin/Strojna fakulteta/DRUGA_STOPNJA/1.letnik/programski_algoritmi_in_metode/AoC/Day02/build/Day02.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

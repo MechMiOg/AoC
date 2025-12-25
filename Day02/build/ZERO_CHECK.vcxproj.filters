@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ogrin\Strojna fakulteta\DRUGA_STOPNJA\1.letnik\programski_algoritmi_in_metode\AoC\Day02\build\CMakeFiles\c93602430b8c509ea91b51a7b877043f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3318764E-F0DC-3E5F-80BC-78C7D51CF344}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

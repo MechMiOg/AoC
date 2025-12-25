@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ogrin\Strojna fakulteta\DRUGA_STOPNJA\1.letnik\programski_algoritmi_in_metode\AoC\Day01\functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogrin\Strojna fakulteta\DRUGA_STOPNJA\1.letnik\programski_algoritmi_in_metode\AoC\Day01\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ogrin\Strojna fakulteta\DRUGA_STOPNJA\1.letnik\programski_algoritmi_in_metode\AoC\Day01\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9BD7D13E-5BB8-333F-8E57-103289BE57F5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
