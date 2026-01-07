@@ -1,0 +1,5 @@
+1. int countAccessibleRolls(const std::vector<std::string>& grid)
+Funkcija najprej prebere število vrstic in število znakov v vrsticah. Nato definira dva arraya z koordinatami pozicij osmih mest okoli določenega zvitka. Nato se s for zankama sprehodimo po 'matriki' indeksov in preverjamo ali je na indeksu znak @. Če naletimo na znak @, preštejemo koliko ima sosedov. Če jih je manj kot 4 povečamo dostopne za ena. 
+
+2. int countRemovableRolls(std::vector<std::string> grid)
+Funkcija ima prvih nekaj vrstic enakih kot prva funkcija. Nato defninira matriko deg v katero preko spet podobnih for zank kot zgoraj zapišemo število sosednjih zvitkov. Nato v vrsto q zapišemo koordinate vseh trenutno dostopnih indeksov. Nato dokler vrsta ni prazna odstranjujemo zvitke na koordinatah, posodobimo število sosednjih zvitkov za sosednje zvitke odstranjenega, če še kakšnemu pade število pod 4 sosednje zvitke, tudi ta postane dostopen. 
